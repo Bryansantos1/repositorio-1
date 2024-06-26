@@ -1,0 +1,2 @@
+Pares .: 4 2 90 88 6 42
+Impares:

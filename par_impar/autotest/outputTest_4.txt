@@ -1,0 +1,2 @@
+Pares .:
+Impares: 9 5 9 99 65
